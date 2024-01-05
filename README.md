@@ -15,3 +15,14 @@
     <img height="20" src="https://badgen.org/img/zenn/k2moons/articles?style=plastic" />
   </a>
 </p>
+
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlueEventHorizon&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlueEventHorizon&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BlueEventHorizon&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlueEventHorizon&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BlueEventHorizon&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=BlueEventHorizon&theme=gruvbox)
