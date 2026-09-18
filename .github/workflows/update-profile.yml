@@ -1,0 +1,44 @@
+name: Update profile dashboard
+
+on:
+  schedule:
+    # Sunday 18:00 UTC = Monday 03:00 JST
+    - cron: "0 18 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-dashboard
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
+      - name: Run generator tests
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Generate dashboard
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_profile.py --username BlueEventHorizon
+
+      - name: Commit changed dashboard
+        run: |
+          git add assets/github-dashboard.svg
+          if git diff --cached --quiet; then
+            echo "Dashboard is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update profile dashboard"
+          git push

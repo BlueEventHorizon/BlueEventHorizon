@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1240" viewBox="0 0 1200 1240" role="img" aria-labelledby="title description" font-family="Arial, Helvetica, sans-serif">
+  <title id="title">BlueEventHorizon GitHub profile dashboard</title>
+  <desc id="description">GitHub contributions, languages, statistics, commit hours, and achievements for BlueEventHorizon.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030611"/><stop offset=".55" stop-color="#07132b"/><stop offset="1" stop-color="#10143b"/>
+    </linearGradient>
+    <linearGradient id="horizon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#48d7ff" stop-opacity="0"/><stop offset=".45" stop-color="#48d7ff"/><stop offset=".72" stop-color="#a45cff"/><stop offset="1" stop-color="#ff4fd8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="areaGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a45cff" stop-opacity=".82"/><stop offset="1" stop-color="#48d7ff" stop-opacity=".06"/>
+    </linearGradient>
+    <linearGradient id="barGradient" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#48d7ff"/><stop offset="1" stop-color="#a45cff"/>
+    </linearGradient>
+    <radialGradient id="orb">
+      <stop offset="0" stop-color="#010207"/><stop offset=".58" stop-color="#020308"/><stop offset=".75" stop-color="#8c5cff" stop-opacity=".35"/><stop offset="1" stop-color="#48d7ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="7"/></filter>
+  </defs>
+
+  <rect width="1200" height="1240" rx="28" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="1238" rx="27" fill="none" stroke="#263d67"/>
+  <g fill="#bcefff" opacity=".72">
+    <circle cx="78" cy="74" r="1.2"/><circle cx="286" cy="47" r="1"/><circle cx="462" cy="100" r="1.4"/>
+    <circle cx="748" cy="58" r="1"/><circle cx="1107" cy="47" r="1.3"/><circle cx="1140" cy="338" r="1"/>
+    <circle cx="82" cy="687" r="1.3"/><circle cx="592" cy="690" r="1"/><circle cx="1118" cy="1037" r="1.2"/>
+  </g>
+
+  <rect x="30" y="30" width="1140" height="300" rx="24" fill="#091328" stroke="#223a63"/>
+  <text x="64" y="69" fill="#48d7ff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="3">PROFILE SYSTEM // ONLINE</text>
+  <text x="64" y="114" fill="#f3f8ff" font-size="36" font-weight="800" letter-spacing="2">BLUE EVENT HORIZON</text>
+  <path d="M64 130 H438" stroke="url(#horizon)" stroke-width="2"/>
+  <text x="64" y="159" fill="#a8bdd8" font-size="15">K2 Terada · @BlueEventHorizon</text>
+  <text x="64" y="184" fill="#7890b0" font-size="12">iOS Engineer · Swift · Dart / Flutter · Science Fiction</text>
+  <text x="64" y="224" fill="#f3f8ff" font-size="24" font-weight="700">5.1K</text>
+  <text x="165" y="224" fill="#7890b0" font-size="12" letter-spacing="1">CONTRIBUTIONS // LAST YEAR</text>
+  <text x="64" y="255" fill="#a8bdd8" font-size="13">34 original projects · 69 public repos</text>
+  <text x="64" y="280" fill="#a8bdd8" font-size="13">8 followers · joined 13 years ago</text>
+  <g opacity=".95">
+    <ellipse cx="430" cy="52" rx="48" ry="6" fill="none" stroke="url(#horizon)" stroke-width="5" transform="rotate(-10 430 52)" filter="url(#softGlow)"/>
+    <ellipse cx="430" cy="52" rx="48" ry="6" fill="none" stroke="url(#horizon)" transform="rotate(-10 430 52)"/>
+    <circle cx="430" cy="52" r="25" fill="url(#orb)"/><circle cx="430" cy="52" r="11" fill="#010207"/>
+  </g>
+
+  <text x="500" y="73" fill="#a45cff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="3">CONTRIBUTION ORBIT // 12 MONTHS</text>
+  <path d="M 500 272.0 H 1120" stroke="#1d3153"/><text x="1130" y="277.0" fill="#6f86a7" font-size="11">0</text><path d="M 500 235.0 H 1120" stroke="#1d3153"/><text x="1130" y="240.0" fill="#6f86a7" font-size="11">250</text><path d="M 500 198.0 H 1120" stroke="#1d3153"/><text x="1130" y="203.0" fill="#6f86a7" font-size="11">500</text><path d="M 500 161.0 H 1120" stroke="#1d3153"/><text x="1130" y="166.0" fill="#6f86a7" font-size="11">750</text><path d="M 500 124.0 H 1120" stroke="#1d3153"/><text x="1130" y="129.0" fill="#6f86a7" font-size="11">1000</text>
+  <path d="M 500.0 219.0 Q 556.4 246.1 584.5 236.8 Q 612.7 227.6 640.9 213.3 Q 669.1 199.0 697.3 201.3 Q 725.5 203.6 753.6 205.1 Q 781.8 206.6 810.0 206.7 Q 838.2 206.7 866.4 204.2 Q 894.5 201.7 922.7 202.2 Q 950.9 202.7 979.1 214.2 Q 1007.3 225.7 1035.5 181.9 Q 1063.6 138.2 1091.8 199.7 T 1120.0 261.2 L 1120.0 272 L 500.0 272 Z" fill="url(#areaGradient)"/>
+  <path d="M 500.0 219.0 Q 556.4 246.1 584.5 236.8 Q 612.7 227.6 640.9 213.3 Q 669.1 199.0 697.3 201.3 Q 725.5 203.6 753.6 205.1 Q 781.8 206.6 810.0 206.7 Q 838.2 206.7 866.4 204.2 Q 894.5 201.7 922.7 202.2 Q 950.9 202.7 979.1 214.2 Q 1007.3 225.7 1035.5 181.9 Q 1063.6 138.2 1091.8 199.7 T 1120.0 261.2" fill="none" stroke="#a45cff" stroke-width="3"/>
+  <text x="500.0" y="296" text-anchor="middle" fill="#6f86a7" font-size="11">25/10</text><text x="612.7" y="296" text-anchor="middle" fill="#6f86a7" font-size="11">25/12</text><text x="725.5" y="296" text-anchor="middle" fill="#6f86a7" font-size="11">26/02</text><text x="838.2" y="296" text-anchor="middle" fill="#6f86a7" font-size="11">26/04</text><text x="950.9" y="296" text-anchor="middle" fill="#6f86a7" font-size="11">26/06</text><text x="1063.6" y="296" text-anchor="middle" fill="#6f86a7" font-size="11">26/08</text><text x="1120.0" y="296" text-anchor="middle" fill="#6f86a7" font-size="11">26/09</text>
+
+  <rect x="30" y="354" width="554" height="326" rx="22" fill="#091328" stroke="#223a63"/>
+  <text x="64" y="401" fill="#48d7ff" font-size="20" font-weight="700">Languages by Repository</text>
+  <text x="64" y="424" fill="#7890b0" font-size="11" letter-spacing="1">PRIMARY LANGUAGE · FORKS EXCLUDED</text>
+  
+    <circle cx="422" cy="532" r="78" fill="none" stroke="#182845" stroke-width="34"/>
+    <circle cx="422" cy="532" r="78" fill="none" stroke="#f05138" stroke-width="34" stroke-dasharray="359.398 130.690" stroke-dashoffset="-0.000" transform="rotate(-90 422 532)"/><circle cx="422" cy="532" r="78" fill="none" stroke="#00b4ab" stroke-width="34" stroke-dasharray="32.673 457.416" stroke-dashoffset="-359.398" transform="rotate(-90 422 532)"/><circle cx="422" cy="532" r="78" fill="none" stroke="#00add8" stroke-width="34" stroke-dasharray="32.673 457.416" stroke-dashoffset="-392.071" transform="rotate(-90 422 532)"/><circle cx="422" cy="532" r="78" fill="none" stroke="#3572a5" stroke-width="34" stroke-dasharray="32.673 457.416" stroke-dashoffset="-424.743" transform="rotate(-90 422 532)"/><circle cx="422" cy="532" r="78" fill="none" stroke="#5d6f91" stroke-width="34" stroke-dasharray="32.673 457.416" stroke-dashoffset="-457.416" transform="rotate(-90 422 532)"/>
+    <circle cx="422" cy="532" r="55" fill="#081226"/>
+    <text x="422" y="529" text-anchor="middle" fill="#f3f8ff" font-size="24" font-weight="700">30</text>
+    <text x="422" y="553" text-anchor="middle" fill="#7890b0" font-size="11" letter-spacing="1">PROJECTS INDEXED</text>
+    <rect x="70" y="438" width="12" height="12" rx="3" fill="#f05138"/><text x="92" y="450" fill="#d5e4f7" font-size="14">Swift</text><text x="238" y="450" text-anchor="end" fill="#7890b0" font-size="12">22 repos</text><rect x="70" y="476" width="12" height="12" rx="3" fill="#00b4ab"/><text x="92" y="488" fill="#d5e4f7" font-size="14">Dart</text><text x="238" y="488" text-anchor="end" fill="#7890b0" font-size="12">2 repos</text><rect x="70" y="514" width="12" height="12" rx="3" fill="#00add8"/><text x="92" y="526" fill="#d5e4f7" font-size="14">Go</text><text x="238" y="526" text-anchor="end" fill="#7890b0" font-size="12">2 repos</text><rect x="70" y="552" width="12" height="12" rx="3" fill="#3572a5"/><text x="92" y="564" fill="#d5e4f7" font-size="14">Python</text><text x="238" y="564" text-anchor="end" fill="#7890b0" font-size="12">2 repos</text><rect x="70" y="590" width="12" height="12" rx="3" fill="#5d6f91"/><text x="92" y="602" fill="#d5e4f7" font-size="14">Other</text><text x="238" y="602" text-anchor="end" fill="#7890b0" font-size="12">2 repos</text>
+
+  <rect x="616" y="354" width="554" height="326" rx="22" fill="#091328" stroke="#223a63"/>
+  <text x="650" y="401" fill="#a45cff" font-size="20" font-weight="700">Languages by Code Size</text>
+  <text x="650" y="424" fill="#7890b0" font-size="11" letter-spacing="1">GITHUB LINGUIST BYTES · FORKS EXCLUDED</text>
+  
+    <circle cx="1005" cy="532" r="78" fill="none" stroke="#182845" stroke-width="34"/>
+    <circle cx="1005" cy="532" r="78" fill="none" stroke="#3572a5" stroke-width="34" stroke-dasharray="296.845 193.243" stroke-dashoffset="-0.000" transform="rotate(-90 1005 532)"/><circle cx="1005" cy="532" r="78" fill="none" stroke="#f05138" stroke-width="34" stroke-dasharray="115.342 374.747" stroke-dashoffset="-296.845" transform="rotate(-90 1005 532)"/><circle cx="1005" cy="532" r="78" fill="none" stroke="#00add8" stroke-width="34" stroke-dasharray="51.096 438.992" stroke-dashoffset="-412.187" transform="rotate(-90 1005 532)"/><circle cx="1005" cy="532" r="78" fill="none" stroke="#89e051" stroke-width="34" stroke-dasharray="17.617 472.471" stroke-dashoffset="-463.283" transform="rotate(-90 1005 532)"/><circle cx="1005" cy="532" r="78" fill="none" stroke="#5d6f91" stroke-width="34" stroke-dasharray="9.188 480.900" stroke-dashoffset="-480.900" transform="rotate(-90 1005 532)"/>
+    <circle cx="1005" cy="532" r="55" fill="#081226"/>
+    <text x="1005" y="529" text-anchor="middle" fill="#f3f8ff" font-size="24" font-weight="700">5.4MB</text>
+    <text x="1005" y="553" text-anchor="middle" fill="#7890b0" font-size="11" letter-spacing="1">CODE INDEXED</text>
+    <rect x="654" y="438" width="12" height="12" rx="3" fill="#3572a5"/><text x="676" y="450" fill="#d5e4f7" font-size="14">Python</text><text x="822" y="450" text-anchor="end" fill="#7890b0" font-size="12">3.3MB</text><rect x="654" y="476" width="12" height="12" rx="3" fill="#f05138"/><text x="676" y="488" fill="#d5e4f7" font-size="14">Swift</text><text x="822" y="488" text-anchor="end" fill="#7890b0" font-size="12">1.3MB</text><rect x="654" y="514" width="12" height="12" rx="3" fill="#00add8"/><text x="676" y="526" fill="#d5e4f7" font-size="14">Go</text><text x="822" y="526" text-anchor="end" fill="#7890b0" font-size="12">562.4KB</text><rect x="654" y="552" width="12" height="12" rx="3" fill="#89e051"/><text x="676" y="564" fill="#d5e4f7" font-size="14">Shell</text><text x="822" y="564" text-anchor="end" fill="#7890b0" font-size="12">193.9KB</text><rect x="654" y="590" width="12" height="12" rx="3" fill="#5d6f91"/><text x="676" y="602" fill="#d5e4f7" font-size="14">Other</text><text x="822" y="602" text-anchor="end" fill="#7890b0" font-size="12">101.1KB</text>
+
+  <rect x="30" y="704" width="554" height="330" rx="22" fill="#091328" stroke="#223a63"/>
+  <text x="64" y="751" fill="#48d7ff" font-size="20" font-weight="700">Lifetime Signals</text>
+  <text x="64" y="774" fill="#7890b0" font-size="11" letter-spacing="1">GITHUB CONTRIBUTION HISTORY</text>
+  <circle cx="70" cy="807" r="5" fill="#48d7ff"/><text x="88" y="812" fill="#7890b0" font-size="12" letter-spacing="1">TOTAL CONTRIBUTIONS</text><text x="88" y="843" fill="#f3f8ff" font-size="24" font-weight="700">22.2K</text><circle cx="70" cy="873" r="5" fill="#48d7ff"/><text x="88" y="878" fill="#7890b0" font-size="12" letter-spacing="1">PUBLIC COMMITS</text><text x="88" y="909" fill="#f3f8ff" font-size="24" font-weight="700">2K</text><circle cx="70" cy="939" r="5" fill="#48d7ff"/><text x="88" y="944" fill="#7890b0" font-size="12" letter-spacing="1">PULL REQUESTS</text><text x="88" y="975" fill="#f3f8ff" font-size="24" font-weight="700">130</text><circle cx="330" cy="807" r="5" fill="#48d7ff"/><text x="348" y="812" fill="#7890b0" font-size="12" letter-spacing="1">ISSUES OPENED</text><text x="348" y="843" fill="#f3f8ff" font-size="24" font-weight="700">106</text><circle cx="330" cy="873" r="5" fill="#48d7ff"/><text x="348" y="878" fill="#7890b0" font-size="12" letter-spacing="1">REPOS WITH COMMITS</text><text x="348" y="909" fill="#f3f8ff" font-size="24" font-weight="700">36</text><circle cx="330" cy="939" r="5" fill="#48d7ff"/><text x="348" y="944" fill="#7890b0" font-size="12" letter-spacing="1">STARS EARNED</text><text x="348" y="975" fill="#f3f8ff" font-size="24" font-weight="700">28</text>
+
+  <rect x="616" y="704" width="554" height="330" rx="22" fill="#091328" stroke="#223a63"/>
+  <text x="650" y="751" fill="#a45cff" font-size="20" font-weight="700">Recent Public Commits</text>
+  <text x="650" y="774" fill="#7890b0" font-size="11" letter-spacing="1">LAST 365 DAYS · JST (UTC+9) · 1139 COMMITS</text>
+  <path d="M 654 986.0 H 1128" stroke="#1d3153"/><text x="642" y="991.0" text-anchor="end" fill="#6f86a7" font-size="11">0</text><path d="M 654 942.0 H 1128" stroke="#1d3153"/><text x="642" y="947.0" text-anchor="end" fill="#6f86a7" font-size="11">50</text><path d="M 654 898.0 H 1128" stroke="#1d3153"/><text x="642" y="903.0" text-anchor="end" fill="#6f86a7" font-size="11">100</text><path d="M 654 854.0 H 1128" stroke="#1d3153"/><text x="642" y="859.0" text-anchor="end" fill="#6f86a7" font-size="11">150</text><path d="M 654 810.0 H 1128" stroke="#1d3153"/><text x="642" y="815.0" text-anchor="end" fill="#6f86a7" font-size="11">200</text>
+  <rect x="656.0" y="907.7" width="15.8" height="78.3" rx="2" fill="url(#barGradient)"/><rect x="675.8" y="903.3" width="15.8" height="82.7" rx="2" fill="url(#barGradient)"/><rect x="695.5" y="963.1" width="15.8" height="22.9" rx="2" fill="url(#barGradient)"/><rect x="715.2" y="982.5" width="15.8" height="3.5" rx="2" fill="url(#barGradient)"/><rect x="735.0" y="986.0" width="15.8" height="0.0" rx="2" fill="url(#barGradient)"/><rect x="754.8" y="986.0" width="15.8" height="0.0" rx="2" fill="url(#barGradient)"/><rect x="774.5" y="986.0" width="15.8" height="0.0" rx="2" fill="url(#barGradient)"/><rect x="794.2" y="978.1" width="15.8" height="7.9" rx="2" fill="url(#barGradient)"/><rect x="814.0" y="976.3" width="15.8" height="9.7" rx="2" fill="url(#barGradient)"/><rect x="833.8" y="969.3" width="15.8" height="16.7" rx="2" fill="url(#barGradient)"/><rect x="853.5" y="959.6" width="15.8" height="26.4" rx="2" fill="url(#barGradient)"/><rect x="873.2" y="948.2" width="15.8" height="37.8" rx="2" fill="url(#barGradient)"/><rect x="893.0" y="933.2" width="15.8" height="52.8" rx="2" fill="url(#barGradient)"/><rect x="912.8" y="954.3" width="15.8" height="31.7" rx="2" fill="url(#barGradient)"/><rect x="932.5" y="943.8" width="15.8" height="42.2" rx="2" fill="url(#barGradient)"/><rect x="952.2" y="921.8" width="15.8" height="64.2" rx="2" fill="url(#barGradient)"/><rect x="972.0" y="938.5" width="15.8" height="47.5" rx="2" fill="url(#barGradient)"/><rect x="991.8" y="920.9" width="15.8" height="65.1" rx="2" fill="url(#barGradient)"/><rect x="1011.5" y="918.2" width="15.8" height="67.8" rx="2" fill="url(#barGradient)"/><rect x="1031.2" y="952.6" width="15.8" height="33.4" rx="2" fill="url(#barGradient)"/><rect x="1051.0" y="945.5" width="15.8" height="40.5" rx="2" fill="url(#barGradient)"/><rect x="1070.8" y="893.6" width="15.8" height="92.4" rx="2" fill="url(#barGradient)"/><rect x="1090.5" y="888.3" width="15.8" height="97.7" rx="2" fill="url(#barGradient)"/><rect x="1110.2" y="905.0" width="15.8" height="81.0" rx="2" fill="url(#barGradient)"/>
+  <path d="M 654 810 V 986 H 1128" fill="none" stroke="#607a9e"/>
+  <text x="654" y="1010" fill="#6f86a7" font-size="11">00</text>
+  <text x="772.5" y="1010" text-anchor="middle" fill="#6f86a7" font-size="11">06</text>
+  <text x="891.0" y="1010" text-anchor="middle" fill="#6f86a7" font-size="11">12</text>
+  <text x="1009.5" y="1010" text-anchor="middle" fill="#6f86a7" font-size="11">18</text>
+  <text x="1128" y="1010" text-anchor="end" fill="#6f86a7" font-size="11">23</text>
+
+  <text x="34" y="1074" fill="#a45cff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="3">ACHIEVEMENTS // EVENT HORIZON MILESTONES</text>
+  
+    <g transform="translate(50 1094)" opacity="1">
+      <rect width="252" height="92" rx="16" fill="#0d1730" stroke="#48d7ff" stroke-opacity=".75"/>
+      <circle cx="30" cy="31" r="13" fill="none" stroke="#48d7ff" stroke-width="2"/>
+      <path d="M24 31 H36 M30 25 V37" stroke="#48d7ff" stroke-width="2"/>
+      <text x="54" y="31" fill="#f3f8ff" font-size="14" font-weight="700" letter-spacing="1">ORBIT MAKER</text>
+      <text x="54" y="55" fill="#7890b0" font-size="11">25 original projects</text>
+      <text x="54" y="75" fill="#48d7ff" font-size="9" letter-spacing="2">UNLOCKED</text>
+    </g>
+    <g transform="translate(334 1094)" opacity=".5">
+      <rect width="252" height="92" rx="16" fill="#0d1730" stroke="#445570" stroke-opacity=".75"/>
+      <circle cx="30" cy="31" r="13" fill="none" stroke="#445570" stroke-width="2"/>
+      <path d="M24 31 H36 M30 25 V37" stroke="#445570" stroke-width="2"/>
+      <text x="54" y="31" fill="#f3f8ff" font-size="14" font-weight="700" letter-spacing="1">STAR FORGE</text>
+      <text x="54" y="55" fill="#7890b0" font-size="11">50 stars earned</text>
+      <text x="54" y="75" fill="#445570" font-size="9" letter-spacing="2">LOCKED</text>
+    </g>
+    <g transform="translate(618 1094)" opacity="1">
+      <rect width="252" height="92" rx="16" fill="#0d1730" stroke="#48d7ff" stroke-opacity=".75"/>
+      <circle cx="30" cy="31" r="13" fill="none" stroke="#48d7ff" stroke-width="2"/>
+      <path d="M24 31 H36 M30 25 V37" stroke="#48d7ff" stroke-width="2"/>
+      <text x="54" y="31" fill="#f3f8ff" font-size="14" font-weight="700" letter-spacing="1">DEEP SPACE</text>
+      <text x="54" y="55" fill="#7890b0" font-size="11">5 years on GitHub</text>
+      <text x="54" y="75" fill="#48d7ff" font-size="9" letter-spacing="2">UNLOCKED</text>
+    </g>
+    <g transform="translate(902 1094)" opacity="1">
+      <rect width="252" height="92" rx="16" fill="#0d1730" stroke="#48d7ff" stroke-opacity=".75"/>
+      <circle cx="30" cy="31" r="13" fill="none" stroke="#48d7ff" stroke-width="2"/>
+      <path d="M24 31 H36 M30 25 V37" stroke="#48d7ff" stroke-width="2"/>
+      <text x="54" y="31" fill="#f3f8ff" font-size="14" font-weight="700" letter-spacing="1">POLYGLOT</text>
+      <text x="54" y="55" fill="#7890b0" font-size="11">5 repository languages</text>
+      <text x="54" y="75" fill="#48d7ff" font-size="9" letter-spacing="2">UNLOCKED</text>
+    </g>
+
+  <path d="M42 1210 H1158" stroke="#1d3154"/>
+  <text x="42" y="1228" fill="#4e6688" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" letter-spacing="2">GITHUB-NATIVE TELEMETRY · WEEKLY SNAPSHOT</text>
+  <text x="1158" y="1228" text-anchor="end" fill="#4e6688" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9">NO THIRD-PARTY STATS SERVICE</text>
+</svg>

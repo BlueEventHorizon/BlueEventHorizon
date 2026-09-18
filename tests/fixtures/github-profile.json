@@ -1,0 +1,80 @@
+{
+  "user": {
+    "login": "BlueEventHorizon",
+    "name": "K2 Terada",
+    "bio": "iOS Engineer & Science Fiction enthusiast",
+    "public_repos": 5,
+    "followers": 42,
+    "created_at": "2016-01-02T00:00:00Z"
+  },
+  "repos": [
+    {
+      "name": "Alpha",
+      "fork": false,
+      "language": "Swift",
+      "stargazers_count": 30,
+      "forks_count": 5
+    },
+    {
+      "name": "Beta",
+      "fork": false,
+      "language": "Swift",
+      "stargazers_count": 25,
+      "forks_count": 2
+    },
+    {
+      "name": "Gamma",
+      "fork": false,
+      "language": "Dart",
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "Delta",
+      "fork": false,
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0
+    },
+    {
+      "name": "Forked",
+      "fork": true,
+      "language": "Go",
+      "stargazers_count": 100,
+      "forks_count": 50
+    }
+  ],
+  "language_bytes": {
+    "Swift": 900000,
+    "Dart": 200000,
+    "Python": 100000
+  },
+  "contributions": {
+    "days": [
+      {"date": "2025-10-15", "contributionCount": 10},
+      {"date": "2025-11-15", "contributionCount": 20},
+      {"date": "2025-12-15", "contributionCount": 30},
+      {"date": "2026-01-15", "contributionCount": 40},
+      {"date": "2026-02-15", "contributionCount": 50},
+      {"date": "2026-03-15", "contributionCount": 60},
+      {"date": "2026-04-15", "contributionCount": 70},
+      {"date": "2026-05-15", "contributionCount": 80},
+      {"date": "2026-06-15", "contributionCount": 90},
+      {"date": "2026-07-15", "contributionCount": 100},
+      {"date": "2026-08-15", "contributionCount": 110},
+      {"date": "2026-09-15", "contributionCount": 120}
+    ],
+    "last_year_total": 780,
+    "lifetime_total": 12345,
+    "total_commits": 2345,
+    "total_pull_requests": 123,
+    "total_issues": 45,
+    "contributed_repositories": 24
+  },
+  "recent_commit_dates": [
+    "2026-09-18T00:15:00Z",
+    "2026-09-18T00:45:00Z",
+    "2026-09-18T14:30:00Z",
+    "2026-09-18T20:00:00Z"
+  ]
+}

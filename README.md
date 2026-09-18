@@ -1,28 +1,32 @@
-<p align="left">
-  <a href="https://github.com/BlueEventHorizon">
-    <img height="20" src="https://komarev.com/ghpvc/?username=BlueEventHorizon" />
-  </a>
-  <a href="https://github.com/BlueEventHorizon">
-    <img height="20" src="https://img.shields.io/github/followers/BlueEventHorizon?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/BlueEventHorizon">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/BlueEventHorizon/posts.svg" />
-  </a>
-  <a href="http://qiita.com/BlueEventHorizon">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/BlueEventHorizon/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/k2moons">
-    <img height="20" src="https://badgen.org/img/zenn/k2moons/articles?style=plastic" />
-  </a>
+<p align="center">
+  <img src="./assets/github-dashboard.svg" width="100%" alt="BlueEventHorizon GitHub profile dashboard" />
 </p>
 
+<p align="center">
+  <strong>iOS Engineer</strong> · Swift · Dart / Flutter · Science Fiction
+</p>
 
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlueEventHorizon&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlueEventHorizon&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BlueEventHorizon&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlueEventHorizon&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BlueEventHorizon&theme=gruvbox&utcOffset=9)
+<p align="center">
+  <a href="https://qiita.com/BlueEventHorizon">Qiita</a>
+  &nbsp;·&nbsp;
+  <a href="https://zenn.dev/k2moons">Zenn</a>
+</p>
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=BlueEventHorizon&theme=gruvbox)
+---
+
+<details>
+  <summary>How this dashboard works</summary>
+  <br />
+  The dashboard is generated from GitHub GraphQL contribution summaries and public
+  REST API data by a repository-owned Python script. Language charts exclude forks,
+  and commit-hour statistics cover public commits from the last 365 days.
+  GitHub Actions refreshes it once a week and commits only when the data changes.
+  No third-party badge or statistics service is used.
+
+  ```bash
+  python3 -m unittest discover -s tests -v
+  python3 scripts/generate_profile.py \
+    --fixture tests/fixtures/github-profile.json \
+    --output .claude/.temp/fixture-dashboard.svg
+  ```
+</details>
